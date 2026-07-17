@@ -6,9 +6,9 @@ Hiiii i am actually kiryuuin but in here im just Herta
 
 <p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg width=40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg width=40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="40"/>
 </p>
 
 
